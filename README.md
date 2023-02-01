@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Deep Learning</b>
-  - [Brain Tumor Segmentation](https://github.com/Jakhmola/Brain-Tumor-Segmentation)
+  - <b>[Brain Tumor Segmentation](https://github.com/Jakhmola/Brain-Tumor-Segmentation)</b>
 - <b>Machine Learning and Data Analysis</b>
   - [Kaggle Titanic](https://github.com/Jakhmola/Kaggle-Titanic) <b>
 - <b>Python</b>
