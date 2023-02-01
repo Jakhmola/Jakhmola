@@ -5,7 +5,7 @@
 - <b>Deep Learning</b>
   - <b>[Brain Tumor Segmentation](https://github.com/Jakhmola/Brain-Tumor-Segmentation)</b>
 - <b>Machine Learning and Data Analysis</b>
-  - [Kaggle Titanic](https://github.com/Jakhmola/Kaggle-Titanic) <b>
+  - <b>[Kaggle Titanic](https://github.com/Jakhmola/Kaggle-Titanic) </b>
 - <b>Python</b>
   - [Real Time Web Scraping stock prices](https://github.com/Jakhmola/Web-Scraping-Stock-Price) <b>
 - <b>Java and REST API</b>
