@@ -7,7 +7,7 @@
 - <b>Machine Learning and Data Analysis</b>
   - <b>[Kaggle Titanic](https://github.com/Jakhmola/Kaggle-Titanic) </b>
 - <b>Python</b>
-  - <b>[Real Time Web Scraping stock prices](https://github.com/Jakhmola/Web-Scraping-Stock-Price) </b>
+  - <b>[Real time Web Scraping stock prices](https://github.com/Jakhmola/Web-Scraping-Stock-Price) </b>
 - <b>Java and REST API</b>
   - <b>[Restaurant API](https://github.com/Jakhmola/Restaurant-API) </b>
 
