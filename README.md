@@ -1,4 +1,4 @@
-<h1> 👋, I am Shubham Jakhmola! 
+<h1> 👋, I am Shubham! 
  <br/><a href="https://github.com/Jakhmola">Python Programmer</a>, <a href="https://www.linkedin.com/in/Jakhmola/">Machine Learning enthusiast</a>
 <h2>👨‍💻 Projects:</h2>
 
