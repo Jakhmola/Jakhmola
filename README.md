@@ -14,8 +14,8 @@
 <h2> :memo: Certifications: </h2>
  
  - <b>FreeCodeCamp</b>
-   - [Scientific Computing with Python](https://freecodecamp.org/certification/fcc4590a051-c41a-497c-80d3-8144a1204a8c/scientific-computing-with-python-v7) 
-   - [Data Analysis with Python](https://www.freecodecamp.org/certification/fcc4590a051-c41a-497c-80d3-8144a1204a8c/data-analysis-with-python-v7) 
+   - <b>[Scientific Computing with Python](https://freecodecamp.org/certification/fcc4590a051-c41a-497c-80d3-8144a1204a8c/scientific-computing-with-python-v7) </b>
+   - <b>[Data Analysis with Python](https://www.freecodecamp.org/certification/fcc4590a051-c41a-497c-80d3-8144a1204a8c/data-analysis-with-python-v7) </b>
 
 <h2> 🤳 Connect with me:</h2>
 
