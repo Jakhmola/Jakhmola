@@ -6,7 +6,7 @@
   - <b>[Brain Tumor Segmentation](https://github.com/Jakhmola/Brain-Tumor-Segmentation)</b>
   - <b>[AI playing Super Mario Bros](https://github.com/Jakhmola/Super-Mario-AI)</b>
   - <b>[Counting fingers using OpenCV](https://github.com/Jakhmola/Finger_Count)</b>
-- <b>Machine Learning and Data Analyss</b>
+- <b>Machine Learning and Data Analysis</b>
   - <b>[Sentiment Analysis of IMDb movie reviews](https://github.com/Jakhmola/Sentiment-Analysis) </b>
   - <b>[Kaggle Titanic](https://github.com/Jakhmola/Kaggle-Titanic) </b>
 - <b>Python</b>
