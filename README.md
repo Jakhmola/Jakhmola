@@ -43,7 +43,7 @@ Lately, I’ve been exploring projects at the intersection of **LLMs, retrieval 
 ### ⚙️ Systems / Backend / Automation
 
 - **[Automated Ticketing System](https://github.com/Jakhmola/automated-ticketing-system)**  
-  Backend system for automated ticket creation and management built with FastAPI, using LangGraph for agent orchestration. Implements workflow-driven ticket handling with API endpoints for creation, assignment, and status tracking, integrating LLM-based agents to automate parts of the ticket lifecycle.
+-   Backend system for automated ticket creation and management built with **FastAPI**, using **LangGraph for agent orchestration**. Implements workflow-driven ticket handling with API endpoints for creation, assignment, and status tracking, integrating LLM-based agents to automate parts of the ticket lifecycle.
   
 - **[Discord Live Transcription Bot](https://github.com/Jakhmola/discord_live-transcription_bot)**  
   A Discord bot that joins voice channels and performs **speech-to-text transcription** using **Gladia**, supporting both **buffered** and **real-time streaming** modes, with transcript export and SQLite-based session storage.
