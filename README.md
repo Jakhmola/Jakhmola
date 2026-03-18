@@ -1,39 +1,70 @@
-<h1> 👋 Hi, I am Shubham! 
- <br/><a href="https://github.com/Jakhmola">Python programmer &</a> <a href="https://www.linkedin.com/in/Jakhmola/">Machine Learning enthusiast</a>
-<h2>👨‍💻 Projects:</h2>
+<h1 align="center">Hi, I'm Shubham Jakhmola 👋</h1>
+<p align="center">
+  Python Developer • Machine Learning Enthusiast • Building AI and Real-Time Systems
+</p>
 
-- <b>Deep Learning</b>
-  - <b>[Brain Tumor Segmentation](https://github.com/Jakhmola/Brain-Tumor-Segmentation)</b>
-  - <b>[AI playing Super Mario Bros](https://github.com/Jakhmola/Super-Mario-AI)</b>
-  - <b>[Counting fingers using OpenCV](https://github.com/Jakhmola/Finger_Count)</b>
-- <b>Machine Learning and Data Analysis</b>
-  - <b>[Sentiment Analysis of IMDb movie reviews](https://github.com/Jakhmola/Sentiment-Analysis) </b>
-  - <b>[Kaggle Titanic](https://github.com/Jakhmola/Kaggle-Titanic) </b>
-- <b>Python</b>
-  - <b>[Real time Web Scraping stock prices](https://github.com/Jakhmola/Web-Scraping-Stock-Price) </b>
-- <b>Java and REST API</b>
-  - <b>[Restaurant API](https://github.com/Jakhmola/Restaurant-API) </b>
-  
+---
 
-<h2> 🤳 Connect with me:</h2>
+## 👨‍💻 About Me
 
-[<img align="left" alt="Shubham_Jakhmola | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+I'm a developer with interests in:
 
-[linkedin]: https://www.linkedin.com/in/jakhmola/
+- **Machine Learning & Deep Learning**
+- **Computer Vision and NLP**
+- **Backend and real-time systems**
+- **Applied AI projects that move beyond notebooks into usable tools**
+
+Lately, I’ve been exploring projects at the intersection of **LLMs, retrieval systems, automation, and voice applications**.
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI / Machine Learning
+
+- **[Brain Tumor Segmentation](https://github.com/Jakhmola/Brain-Tumor-Segmentation)**  
+  Deep learning project for **brain MRI tumor segmentation** using **3D U-Net**, with **ResNet** and **VGG** backbones, trained on the **BRaTS 2020** dataset. Also includes a **Flask web app** for visualizing predictions.
+
+- **[Super Mario AI](https://github.com/Jakhmola/Super-Mario-AI)**  
+  Reinforcement learning project where an agent learns to play **Super Mario Bros** using **Proximal Policy Optimization (PPO)** in an OpenAI Gym-based environment.
+
+- **[Sentiment Analysis](https://github.com/Jakhmola/Sentiment-Analysis)**  
+  NLP project on **IMDb movie reviews** with preprocessing, exploratory analysis, and comparison of **TextBlob**, **VADER**, and **Word2Vec-based** sentiment approaches.
+
+---
+
+### 👁️ Computer Vision
+
+- **[Finger Count](https://github.com/Jakhmola/Finger_Count)**  
+  Real-time finger detection and counting using **OpenCV**, based on hand segmentation, convex hulls, and convexity defects.
+
+---
+
+### ⚙️ Systems / Backend / Automation
+
+- **[Discord Live Transcription Bot](https://github.com/Jakhmola/discord_live-transcription_bot)**  
+  A Discord bot that joins voice channels and performs **speech-to-text transcription** using **Gladia**, supporting both **buffered** and **real-time streaming** modes, with transcript export and SQLite-based session storage.
+
+- **[Coding Agent](https://github.com/Jakhmola/coding_agent)**  
+  A CLI-driven AI coding assistant project inspired by terminal-first coding workflows.
+
+- **[RAG Search Engine](https://github.com/Jakhmola/rag-search-engine)**  
+  Early-stage retrieval-augmented generation project exploring search + LLM workflows.
+
+- **[Web Scraping Stock Price](https://github.com/Jakhmola/Web-Scraping-Stock-Price)**  
+  Real-time stock price scraping from Yahoo Finance using **BeautifulSoup**, with live plotting using **Matplotlib animation**.
+
+---
 
 
+## 🤳 Connect With Me
 
-<!--
-**Jakhmola/Jakhmola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/jakhmola/">
+  <img align="left" alt="Shubham Jakhmola | LinkedIn" width="22px"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
