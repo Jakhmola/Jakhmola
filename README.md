@@ -20,7 +20,23 @@ Lately, I’ve been exploring projects at the intersection of **LLMs, retrieval 
 
 ## 🚀 Featured Projects
 
-### 🤖 AI / Machine Learning
+### 🤖 LLM Applications & Agentic Systems
+
+- **[Automated Ticketing System](https://github.com/Jakhmola/automated-ticketing-system)**  
+  Backend system for automated ticket creation and management built with **FastAPI**, using **LangGraph for agent orchestration**. Implements workflow-driven ticket handling with API endpoints for creation, assignment, and status tracking, integrating LLM-based agents to automate parts of the ticket lifecycle.
+  
+- **[Discord Live Transcription Bot](https://github.com/Jakhmola/discord_live-transcription_bot)**  
+  A Discord bot that joins voice channels and performs **speech-to-text transcription** using **Gladia**, supporting both **buffered** and **real-time streaming** modes, with transcript export and SQLite-based session storage.
+
+- **[Coding Agent](https://github.com/Jakhmola/coding_agent)**  
+  A CLI-driven AI coding assistant project inspired by terminal-first coding workflows.
+
+- **[RAG Search Engine](https://github.com/Jakhmola/rag-search-engine)**  
+  Early-stage retrieval-augmented generation project exploring search + LLM workflows.
+
+---
+
+### 🧠 Machine Learning
 
 - **[Behavioral Biometric Identification](https://github.com/Jakhmola/behavioral-biometric-identification)**  
   Machine learning system for identifying users using smartphone sensor data (accelerometer, gyroscope). Processes time-series signals through preprocessing, windowing, and feature extraction, followed by multi-class classification using models like Random Forest and SVM to distinguish users based on motion patterns.
@@ -40,21 +56,9 @@ Lately, I’ve been exploring projects at the intersection of **LLMs, retrieval 
 
 ---
 
-### ⚙️ Systems / Backend / Automation
 
-- **[Automated Ticketing System](https://github.com/Jakhmola/automated-ticketing-system)**  
--   Backend system for automated ticket creation and management built with **FastAPI**, using **LangGraph for agent orchestration**. Implements workflow-driven ticket handling with API endpoints for creation, assignment, and status tracking, integrating LLM-based agents to automate parts of the ticket lifecycle.
-  
-- **[Discord Live Transcription Bot](https://github.com/Jakhmola/discord_live-transcription_bot)**  
-  A Discord bot that joins voice channels and performs **speech-to-text transcription** using **Gladia**, supporting both **buffered** and **real-time streaming** modes, with transcript export and SQLite-based session storage.
 
-- **[Coding Agent](https://github.com/Jakhmola/coding_agent)**  
-  A CLI-driven AI coding assistant project inspired by terminal-first coding workflows.
 
-- **[RAG Search Engine](https://github.com/Jakhmola/rag-search-engine)**  
-  Early-stage retrieval-augmented generation project exploring search + LLM workflows.
-
----
 
 
 ## 🤳 Connect With Me
