@@ -31,9 +31,6 @@ Lately, I’ve been exploring projects at the intersection of **LLMs, retrieval 
 - **[Super Mario AI](https://github.com/Jakhmola/Super-Mario-AI)**  
   Reinforcement learning project where an agent learns to play **Super Mario Bros** using **Proximal Policy Optimization (PPO)** in an OpenAI Gym-based environment.
 
-- **[Sentiment Analysis](https://github.com/Jakhmola/Sentiment-Analysis)**  
-  NLP project on **IMDb movie reviews** with preprocessing, exploratory analysis, and comparison of **TextBlob**, **VADER**, and **Word2Vec-based** sentiment approaches.
-
 ---
 
 ### 👁️ Computer Vision
@@ -56,9 +53,6 @@ Lately, I’ve been exploring projects at the intersection of **LLMs, retrieval 
 
 - **[RAG Search Engine](https://github.com/Jakhmola/rag-search-engine)**  
   Early-stage retrieval-augmented generation project exploring search + LLM workflows.
-
-- **[Web Scraping Stock Price](https://github.com/Jakhmola/Web-Scraping-Stock-Price)**  
-  Real-time stock price scraping from Yahoo Finance using **BeautifulSoup**, with live plotting using **Matplotlib animation**.
 
 ---
 
