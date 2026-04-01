@@ -32,7 +32,7 @@ Lately, I’ve been exploring projects at the intersection of **LLMs, retrieval 
   A CLI-driven AI coding assistant project inspired by terminal-first coding workflows.
 
 - **[RAG Search Engine](https://github.com/Jakhmola/rag-search-engine)**  
-  A movie search engine with full Retrieval-Augmented Generation (RAG) capabilities. It searches a movie database using multiple retrieval strategies — keyword (BM25), semantic (dense embeddings), hybrid fusion, and multimodal (image-based) — and augments results with LLM-generated answers via Google Gemini.
+  A Dockerized RAG-based movie search system with BM25, dense, hybrid, and multimodal retrieval, exposed via FastAPI APIs and powered by Gemini for grounded answer generation with Streamlit UI frontend.
 
 ---
 
