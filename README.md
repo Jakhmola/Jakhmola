@@ -22,6 +22,10 @@ Lately, I’ve been exploring projects at the intersection of **LLMs, retrieval 
 
 ### 🤖 LLM Applications & Agentic Systems
 
+- **[Interview Coach](https://github.com/Jakhmola/interview-coach)**                           
+  Personalized AI interview practice. Upload your CV and project docs, paste a job description, pick a round, and a local LLM runs a real back-and-forth interview — it asks tailored questions, probes your answers, then scores you and shows a model answer.<br>
+Everything runs on your own machine: FastAPI + React, a llama.cpp GPU container, and Postgres. No data leaves the box (except optional web search).
+
 - **[Automated Ticketing System](https://github.com/Jakhmola/automated-ticketing-system)**  
   Backend system for automated ticket creation and management built with **FastAPI**, using **LangGraph for agent orchestration**. Implements workflow-driven ticket handling with API endpoints for creation, assignment, and status tracking, integrating LLM-based agents to automate parts of the ticket lifecycle.
   
